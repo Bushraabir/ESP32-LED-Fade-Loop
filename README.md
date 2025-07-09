@@ -4,7 +4,7 @@ Smooth multi-color LED fading using PWM on an ESP32. This sketch drives 5 LEDs w
 
 ## 📹 Demo Video
 
-[🎬 Watch on YouTube]((https://youtu.be/lbiYOHHvpB0))
+[🎬 Watch on YouTube](https://youtu.be/lbiYOHHvpB0)
 
 ---
 
